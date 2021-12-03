@@ -6,3 +6,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - SonarSweep
 ### Day 2:
 - Dive!
+### Day 3:
+- BinaryDiagnostic
