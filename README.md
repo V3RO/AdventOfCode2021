@@ -8,3 +8,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - Dive!
 ### Day 3:
 - BinaryDiagnostic
+### Day 4:
+- GiantSquid
