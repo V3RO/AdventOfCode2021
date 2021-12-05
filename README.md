@@ -10,3 +10,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - BinaryDiagnostic
 ### Day 4:
 - GiantSquid
+### Day 5:
+- HydrothermalVenture

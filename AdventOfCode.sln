@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDiagnostic", "BinaryD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiantSquid", "GiantSquid\GiantSquid.csproj", "{000A9680-3E4C-4777-80B2-E5844FBCBF94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydrothermalVenture", "HydrothermalVenture\HydrothermalVenture.csproj", "{0C2F8BEF-38F4-47FD-B576-911F688A2130}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{000A9680-3E4C-4777-80B2-E5844FBCBF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{000A9680-3E4C-4777-80B2-E5844FBCBF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{000A9680-3E4C-4777-80B2-E5844FBCBF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2F8BEF-38F4-47FD-B576-911F688A2130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2F8BEF-38F4-47FD-B576-911F688A2130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2F8BEF-38F4-47FD-B576-911F688A2130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2F8BEF-38F4-47FD-B576-911F688A2130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
