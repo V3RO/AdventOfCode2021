@@ -12,3 +12,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - GiantSquid
 ### Day 5:
 - HydrothermalVenture
+### Day 6:
+- LanternFish
