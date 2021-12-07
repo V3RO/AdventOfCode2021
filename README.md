@@ -14,3 +14,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - HydrothermalVenture
 ### Day 6:
 - LanternFish
+### Day 7:
+- TheTreacheryOfWhales
