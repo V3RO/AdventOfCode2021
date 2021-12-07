@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Threading.Channels;
-using Microsoft.VisualBasic;
 
 namespace HydrothermalVenture
 {
@@ -119,37 +117,6 @@ namespace HydrothermalVenture
                 }
                 else
                 {
-                    // var from = line[0] < line[2] ? line[0] : line[2];
-                    // var to = line[0] > line[2] ? line[0] : line[2];
-                    // var fromY = line[1] < line[3] ? line[1] : line[3];
-
-                    // if ((line[0] >= line[2] && line[1] >= line[3]) || 
-                    //     (line[0] >= line[2] && line[1] >= line[3]) ||
-                    //     (line[0] == line[1] && line[2] == line[3]))
-                    // {
-                    //     var from = line[0] < line[2] ? line[0] : line[2];
-                    //     var to = line[0] > line[2] ? line[0] : line[2];
-                    //
-                    //     var fromY = line[1] < line[3] ? line[1] : line[3];
-                    //
-                    //     for (var i = from; i <= to; i++)
-                    //     {
-                    //         map[i, fromY++]++;
-                    //     }
-                    // }
-                    // else 
-                    // {
-                    //     var from = line[0] < line[2] ? line[0] : line[2];
-                    //     var to = line[0] > line[2] ? line[0] : line[2];
-                    //     
-                    //     var fromY = line[1] > line[3] ? line[1] : line[3];
-                    //     
-                    //     for (var i = from; i <= to; i++)
-                    //     {
-                    //         map[i, fromY--]++;
-                    //     }
-                    // }
-                    
                     if (line[0] >= line[2] && line[1] <= line[3] || line[0] <= line[2] && line[1] >= line[3])
                     {
                         var from = line[0] < line[2] ? line[0] : line[2];
