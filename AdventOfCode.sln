@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanternFish", "LanternFish\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTreacheryOfWhales", "TheTreacheryOfWhales\TheTreacheryOfWhales.csproj", "{55CB2E28-DAA6-40FD-BA07-52816E06DD5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSegmentSearch", "SevenSegmentSearch\SevenSegmentSearch.csproj", "{B1434E6B-B9B5-4626-8C10-7C38CBFDA728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{55CB2E28-DAA6-40FD-BA07-52816E06DD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55CB2E28-DAA6-40FD-BA07-52816E06DD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55CB2E28-DAA6-40FD-BA07-52816E06DD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1434E6B-B9B5-4626-8C10-7C38CBFDA728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1434E6B-B9B5-4626-8C10-7C38CBFDA728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1434E6B-B9B5-4626-8C10-7C38CBFDA728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1434E6B-B9B5-4626-8C10-7C38CBFDA728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

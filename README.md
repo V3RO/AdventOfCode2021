@@ -16,3 +16,5 @@ These are by far not the most optimal solutions but my first idea implemented.
 - LanternFish
 ### Day 7:
 - TheTreacheryOfWhales
+### Day 8:
+- SevenSegmentSearch
