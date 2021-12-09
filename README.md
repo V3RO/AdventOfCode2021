@@ -1,20 +1,31 @@
 # AdventOfCode
-My Repository for the Advent of Code Problems. <br>
-These are by far not the most optimal solutions but my first idea implemented.
+This repository contains my solution for the [Advent of Code](https://adventofcode.com/). 🎄<br>
+The Problems are solved with C# (NET5). <br>
+The solutions are probably often not solved optimally, because I usually implement my first idea instead of looking for the best/most optimal solution.
 
-### Day 1:
-- SonarSweep
-### Day 2:
-- Dive!
-### Day 3:
-- BinaryDiagnostic
-### Day 4:
-- GiantSquid
-### Day 5:
-- HydrothermalVenture
-### Day 6:
-- LanternFish
-### Day 7:
-- TheTreacheryOfWhales
-### Day 8:
-- SevenSegmentSearch
+| Day 	| Challenge 	                                        |
+|-----	|-----------	                                        |               
+| 1   	| [Sonar Sweep](./SonarSweep)                         |
+| 2   	| [Dive!](./Dive)                                     |
+| 3   	| [Binary Diagnostic](./BinaryDiagnostic)             |
+| 4   	| [Giant Squid](./GiantSquid)                         |
+| 5   	| [Hydrothermal Venture](./HydrothermalVenture)       |
+| 6   	| [Lanternfish](./LanternFish)                        |
+| 7   	| [The Treachery of Whales](./TheTreacheryOfWhales)   |
+| 8   	| [Seven Segment Search](./SevenSegmentSearch)        |
+| 9   	| [Smoke Basin](./SmokeBasin)                         |
+| 10  	|           	|
+| 11  	|           	|
+| 12  	|           	|
+| 13  	|           	|
+| 14  	|           	|
+| 15  	|           	|
+| 16  	|           	|
+| 17  	|           	|
+| 18  	|           	|
+| 19  	|           	|
+| 20  	|           	|
+| 21  	|           	|
+| 22  	|           	|
+| 23  	|           	|
+| 24  	|           	|
