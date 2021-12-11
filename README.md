@@ -15,7 +15,7 @@ The solutions are probably often not solved optimally, because I usually impleme
 | 8   	| [Seven Segment Search](./SevenSegmentSearch)      |
 | 9   	| [Smoke Basin](./SmokeBasin)                       |
 | 10  	| [Syntax Scoring](./SyntaxScoring)          	      |
-| 11  	| 	                                                 |
+| 11  	| [Dumbo Octopus](./DumboOctopus)                   |
 | 12  	| 	                                                 |
 | 13  	| 	                                                 |
 | 14  	| 	                                                 |
