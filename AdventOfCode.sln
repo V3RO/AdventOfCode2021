@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxScoring", "SyntaxScor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumboOctopus", "DumboOctopus\DumboOctopus.csproj", "{CD98856F-8B64-448D-AAA3-6DE1A62CBDD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassagePathing", "PassagePathing\PassagePathing.csproj", "{327725AA-4898-43E1-994E-2C72859AAD05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{CD98856F-8B64-448D-AAA3-6DE1A62CBDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD98856F-8B64-448D-AAA3-6DE1A62CBDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD98856F-8B64-448D-AAA3-6DE1A62CBDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327725AA-4898-43E1-994E-2C72859AAD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327725AA-4898-43E1-994E-2C72859AAD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327725AA-4898-43E1-994E-2C72859AAD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327725AA-4898-43E1-994E-2C72859AAD05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

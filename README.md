@@ -16,7 +16,7 @@ The solutions are probably often not solved optimally, because I usually impleme
 | 9   	| [Smoke Basin](./SmokeBasin)                       |
 | 10  	| [Syntax Scoring](./SyntaxScoring)          	      |
 | 11  	| [Dumbo Octopus](./DumboOctopus)                   |
-| 12  	| 	                                                 |
+| 12  	| [Passage Pathing](./PassagePathing)	              |
 | 13  	| 	                                                 |
 | 14  	| 	                                                 |
 | 15  	| 	                                                 |
