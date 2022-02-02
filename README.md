@@ -3,6 +3,8 @@ This repository contains my solution for the [Advent of Code](https://adventofco
 The Problems are solved with C# (NET5). <br>
 The solutions are probably often not solved optimally, because I usually implement my first idea instead of looking for the best/most optimal solution.
 
+### Stopped after Day 12 due to lack of time.
+
 | Day 	| Challenge 	                                       |
 |-----	|---------------------------------------------------|               
 | 1   	| [Sonar Sweep](./SonarSweep)                       |
